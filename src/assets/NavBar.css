@@ -1,0 +1,22 @@
+img {
+    width: 45px;
+  }
+  .navBarHead {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(238, 56, 56);
+    color: white;
+    font-size:30px;
+  }
+  ul li {
+    list-style: none;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .head {
+    margin-top: 4px;
+  }
+  
